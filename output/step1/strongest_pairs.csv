@@ -1,0 +1,21 @@
+rank,symbol_a,symbol_b,correlation,same_company,same_sector,same_cluster,sector_a,sector_b
+1,GOOGL,GOOG,0.9960,True,True,True,Communication Services,Communication Services
+2,FOXA,FOX,0.9846,True,True,True,Communication Services,Communication Services
+3,NWSA,NWS,0.9606,True,True,True,Communication Services,Communication Services
+4,NSC,UNP,0.9434,False,True,True,Industrials,Industrials
+5,CPT,MAA,0.9237,False,True,True,Real Estate,Real Estate
+6,DHI,PHM,0.9064,False,True,True,Consumer Discretionary,Consumer Discretionary
+7,AMAT,LRCX,0.9050,False,True,True,Information Technology,Information Technology
+8,MTB,RF,0.8990,False,True,True,Financials,Financials
+9,DAL,UAL,0.8974,False,True,True,Industrials,Industrials
+10,CFG,KEY,0.8952,False,True,True,Financials,Financials
+11,DOW,LYB,0.8868,False,True,True,Materials,Materials
+12,AMT,CCI,0.8861,False,True,True,Real Estate,Real Estate
+13,EIX,PCG,0.8859,False,True,True,Utilities,Utilities
+14,PNC,USB,0.8852,False,True,True,Financials,Financials
+15,HD,LOW,0.8848,False,True,True,Consumer Discretionary,Consumer Discretionary
+16,FITB,RF,0.8833,False,True,True,Financials,Financials
+17,CFG,RF,0.8823,False,True,True,Financials,Financials
+18,FITB,HBAN,0.8813,False,True,True,Financials,Financials
+19,STX,WDC,0.8812,False,True,True,Information Technology,Information Technology
+20,MCO,SPGI,0.8804,False,True,True,Financials,Financials

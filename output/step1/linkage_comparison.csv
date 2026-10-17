@@ -1,0 +1,5 @@
+linkage,cophenetic_correlation,best_k,silhouette,largest_cluster_share,singletons,ari_vs_sectors
+single,0.4249,5,-0.0165,0.9920,4,0.0012
+complete,0.5651,30,0.0897,0.0904,0,0.2795
+average,0.7112,23,0.0758,0.2992,5,0.2458
+ward,0.5450,30,0.0830,0.0683,0,0.2641

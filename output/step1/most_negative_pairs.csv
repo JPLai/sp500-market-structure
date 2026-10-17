@@ -1,0 +1,21 @@
+rank,symbol_a,symbol_b,correlation,same_company,same_sector,same_cluster,sector_a,sector_b
+1,ADP,TER,-0.5754,False,False,False,Industrials,Information Technology
+2,TER,VRSK,-0.5341,False,False,False,Information Technology,Industrials
+3,MU,RSG,-0.4817,False,False,False,Information Technology,Industrials
+4,LRCX,RSG,-0.4779,False,False,False,Information Technology,Industrials
+5,ADP,CAT,-0.4744,False,True,False,Industrials,Industrials
+6,CAT,VRSK,-0.4742,False,True,False,Industrials,Industrials
+7,XOM,UAL,-0.4737,False,False,False,Energy,Industrials
+8,PAYX,TER,-0.4716,False,False,False,Industrials,Information Technology
+9,TER,TYL,-0.4703,False,True,False,Information Technology,Information Technology
+10,GLW,MRSH,-0.4688,False,False,False,Information Technology,Financials
+11,BRO,COHR,-0.4625,False,False,False,Financials,Information Technology
+12,EOG,UAL,-0.4605,False,False,False,Energy,Industrials
+13,RSG,STX,-0.4604,False,False,False,Industrials,Information Technology
+14,CVX,UAL,-0.4604,False,False,False,Energy,Industrials
+15,BRO,PWR,-0.4577,False,False,False,Financials,Industrials
+16,BR,TER,-0.4577,False,False,False,Industrials,Information Technology
+17,ADP,GLW,-0.4575,False,False,False,Industrials,Information Technology
+18,AMD,CB,-0.4572,False,False,False,Information Technology,Financials
+19,AJG,GLW,-0.4570,False,False,False,Financials,Information Technology
+20,COHR,MRSH,-0.4564,False,False,False,Information Technology,Financials

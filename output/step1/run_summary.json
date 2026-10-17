@@ -1,0 +1,18 @@
+{
+  "window_requested": [
+    "2025-10-16",
+    "2026-10-16"
+  ],
+  "first_return_date": "2025-10-17",
+  "last_return_date": "2026-10-15",
+  "days": 250,
+  "universe_size": 503,
+  "stocks_clustered": 498,
+  "stocks_excluded": 5,
+  "euclidean": true,
+  "linkage": "complete",
+  "k": 30,
+  "selection": "highest silhouette over single, complete, average, ward and k = 5-30",
+  "seed": 0,
+  "bootstrap_resamples": 100
+}

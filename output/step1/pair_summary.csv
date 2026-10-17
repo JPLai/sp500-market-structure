@@ -1,0 +1,6 @@
+pairs,count,mean_correlation,median_correlation
+all pairs,123753,0.1177,0.1145
+same sector,13712,0.2518,0.2470
+different sector,110041,0.1010,0.1030
+same cluster,5963,0.4366,0.4204
+different cluster,117790,0.1015,0.1052
