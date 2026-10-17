@@ -1,8 +1,17 @@
-# sp500-market-structure
+# S&P 500 Market Structure
 
-Which S&P 500 stocks move together? This project clusters stocks by how their daily returns
-correlate, **without looking at sector labels**, and then checks how well the clusters line up
-with the GICS sectors.
+**What can a simple statistic, correlation, tell us about how the stock market is organised?**
+
+Correlation is easy to learn as a formula and easy to forget. This project applies it at scale:
+measure how the daily returns of every pair of S&P 500 stocks move together, turn that into a
+distance, and let hierarchical clustering find groups **without looking at sector labels**. Then
+check how well the groups line up with the official GICS sectors, and how much the answer depends
+on the choices made along the way (linkage, number of clusters, sample of days).
+
+AI tools make this kind of exploration much more accessible: the distance between an idea, the
+data engineering, the statistics, the figures and the tests is far shorter than it used to be.
+This repository is the result of one such exploration, with the method, results and limits
+written down.
 
 ![Correlation matrix of 498 S&P 500 stocks, ordered by hierarchical clustering](output/step1/correlation_heatmap.png)
 
